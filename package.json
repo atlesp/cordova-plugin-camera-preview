@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview"
+    "url": "https://github.com/atlesp/cordova-plugin-camera-preview"
   },
   "author": {
     "name": "Weston Ganger",
